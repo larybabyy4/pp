@@ -6,10 +6,10 @@ import subprocess
 from collections import defaultdict
 
 # Telegram configuration
-API_ID = None  # Coloque seu API_ID aqui
-API_HASH = None  # Coloque seu API_HASH aqui
-PHONE_NUMBER = None  # Coloque seu número de telefone aqui
-CHAT_ID = None  # Coloque o ID do chat de destino aqui
+API_ID = 26968169  # Coloque seu API_ID aqui
+API_HASH = '5768aedba5732b11a1288965b57472e7'  # Coloque seu API_HASH aqui
+PHONE_NUMBER = +551682194939  # Coloque seu número de telefone aqui
+CHAT_ID = -1002441869048  # Coloque o ID do chat de destino aqui
 
 # Texto para sobrepor nas mídias
 TEXT_LINE1 = "Linha 1"
